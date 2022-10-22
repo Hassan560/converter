@@ -1,0 +1,8 @@
+.search__input{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    margin: auto;
+    padding: 0px 15px;
+    margin-top: 10px;
+}

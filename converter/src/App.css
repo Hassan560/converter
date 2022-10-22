@@ -1,0 +1,25 @@
+.container {
+  width: 320px;
+  margin: 50px auto;
+  box-shadow: 1px 1px 20px gray;
+  padding: 20px 10px;
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 5px;
+}
+.header > h1 {
+  margin: 0;
+  color: #168aad;
+}
+
+.content {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+button > h3 {
+  margin: 0px;
+}
